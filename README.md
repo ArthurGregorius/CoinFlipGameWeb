@@ -26,4 +26,4 @@ CoinFlipGameWeb is a simple web application that simulates a coin flip game. Use
 ## 📦 How to Use
 1. Clone this repository to your computer:
    ```bash
-   git clone https://github.com/yourusername/CoinFlipGameWeb.git
+   git clone https://github.com/ArthurGregorius/CoinFlipGameWeb.git
