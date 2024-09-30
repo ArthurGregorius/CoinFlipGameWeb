@@ -1,5 +1,0 @@
-ECHO is on.
-
-*.html linguist-language=HTML
-*.css linguist-language=CSS
-*.js linguist-language=JavaScript
