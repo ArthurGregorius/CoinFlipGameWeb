@@ -12,7 +12,7 @@ CoinFlipGameWeb is a simple web application that simulates a coin flip game. Use
 - Responsive design for various screen sizes
 
 ## 🌐 Live Demo
-[**View the Coin Flip Game**](https://yourusername.github.io/CoinFlipGameWeb/)
+[**View the Coin Flip Game**](https://ArthurGregorius.github.io/CoinFlipGameWeb/)
 
 ---
 
